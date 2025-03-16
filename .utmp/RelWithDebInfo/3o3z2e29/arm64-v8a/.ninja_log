@@ -1,0 +1,23 @@
+# ninja log v5
+1	4050	7638277262836111	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e99d2a6c4889b037
+3593	4177	7638277281608192	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	27b3d35372d9a96c
+2721	4323	7638277282997779	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	624a3168795cfa88
+476	4056	7638277261240779	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d8f1cc8173237e62
+3135	4605	7638277285835474	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f655718808531f14
+948	4058	7638277266426552	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ae0ed604838c1e6e
+1359	4060	7638277273078504	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	644c8e1727658889
+1805	4061	7638277273618794	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c866325d09215d87
+2268	4063	7638277278169233	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	712d678312967a59
+4178	4985	7638277289642303	D:/Create With Code/Dragon Sim/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o3z2e29/obj/arm64-v8a/libswappywrapper.so	70c0562d8b1367cb
+4606	5277	7638277292501636	D:/Create With Code/Dragon Sim/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o3z2e29/obj/arm64-v8a/libgame.so	7f88bd4598f93453
+24	4446	7638449340976382	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e99d2a6c4889b037
+416	4448	7638449339468139	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ae0ed604838c1e6e
+822	4450	7638449340680779	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c866325d09215d87
+1279	4452	7638449345174335	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d8f1cc8173237e62
+1739	4454	7638449348700440	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f655718808531f14
+3919	4587	7638449353630060	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	27b3d35372d9a96c
+2853	4630	7638449354010981	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	712d678312967a59
+2205	4661	7638449354286324	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	644c8e1727658889
+3428	5029	7638449358009964	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	624a3168795cfa88
+4587	5401	7638449361730935	D:/Create With Code/Dragon Sim/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o3z2e29/obj/arm64-v8a/libswappywrapper.so	70c0562d8b1367cb
+5029	5716	7638449364826776	D:/Create With Code/Dragon Sim/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o3z2e29/obj/arm64-v8a/libgame.so	7f88bd4598f93453
